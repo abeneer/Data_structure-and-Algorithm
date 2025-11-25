@@ -1,4 +1,4 @@
-package Algorithm.Searching;
+package Algorithm.java.Searching;
 
 public class SearchinStrings {
     public static void main(String[] args){

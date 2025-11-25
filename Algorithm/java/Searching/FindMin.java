@@ -1,4 +1,4 @@
-package Algorithm.Searching;
+package Algorithm.java.Searching;
 
 public class FindMin {
     public static void main(String[] args){
