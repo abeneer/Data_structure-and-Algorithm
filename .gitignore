@@ -1,0 +1,21 @@
+# Mac System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode Settings
+.vscode/
+
+# Java Compiled Files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE Files
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
